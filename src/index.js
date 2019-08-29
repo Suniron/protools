@@ -3,6 +3,10 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+// Importer boosted (bootstrap Orange)
+import 'boosted/dist/css/boosted.css';
+import 'boosted/dist/css/orangeHelvetica.css';
+import 'boosted/dist/css/orangeIcons.css';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 

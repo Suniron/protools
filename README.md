@@ -1,3 +1,20 @@
+# Doc Pour l'utilisation Electron + React
+
+## Installation de l'appli
+
+    Commande yarn
+
+## Lancement de l'appli en mode dév
+
+    1) Commande yarn start
+    2) Commande yarn electron-start
+    3) Enjoy :-D
+
+## Documentation d'appui
+
+    https://medium.com/@brockhoff/using-electron-with-react-the-basics-e93f9761f86f
+
+# Doc from create-react-app init
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

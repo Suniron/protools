@@ -1,13 +1,14 @@
 {
   "name": "protools",
   "version": "0.1.0",
-  "main": "public/Mains.js",
+  "main": "public/Main.js",
   "private": true,
   "dependencies": {
+    "boosted": "^4.3.1",
+    "electron": "5.0.8",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "react-scripts": "3.1.1",
-    "electron": "^5.0.8"
+    "react-scripts": "3.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
