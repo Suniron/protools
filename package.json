@@ -5,7 +5,7 @@
   "private": true,
   "dependencies": {
     "boosted": "^4.3.1",
-    "electron": "5.0.8",
+    "electron": "7.2.4",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1"
